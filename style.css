@@ -1,0 +1,75 @@
+body{
+background-image: linear-gradient(rgba(255,255,255,0.55), rgba(255,255,255,0.55)), url("Elevation Worship.jpg");
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+font-size: large;
+
+}
+.program-btn{
+    background-color:rgb(158, 158, 218);
+    color: black;
+    text-decoration: none;
+    font-style: italic;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.program-btn:hover{
+background-color: rgb(158, 158, 218);
+    color: white;
+}
+
+h1, h3{
+    text-decoration: underline;
+    text-decoration-color: black;
+    color:rgb(60, 48, 136);
+}
+h2{
+    text-align: center;
+padding-left: 20px;
+color: rgb(103, 36, 72);
+}
+footer{
+    padding: 0px;
+    width: 90%;
+    margin-top: 100px;
+    text-align: left;
+}
+@media screen and (max-width: 768px) {
+    body {
+        font-size: medium;
+        padding: 15px;
+        background-size: cover;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    h2 {
+        font-size: 20px;
+        padding-left: 0;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    .program-btn {
+        display: block;
+        width: 80%;
+        margin: 20px auto;
+        text-align: center;
+        padding: 12px 0;
+    }
+
+    ul {
+        padding-left: 20px;
+    }
+
+    #program-outline {
+        margin-top: 40px !important;
+        size: 20px;
+    }
+}

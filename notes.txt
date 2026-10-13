@@ -1,0 +1,13 @@
+Inspiration of the event:
+What inspired me to design for this event is that, giving you life to Christ can surely change your life and you start to understand why somethings happen.
+
+research:
+I researched about the linear gradient feature and the hover effect and below is evidence respectively;
+https://www.w3schools.com/cssref/sel_hover.php
+https://www.w3schools.com/css/css3_gradients.asp 
+
+Challenge
+I think the biggest challenge i faced was actaully formig the link for veiwing the program.
+
+How I came about it
+I actaully used Gemini to help me solve the problem and to also find out why it was not relocating to the part i wanted it to and it helped me to undertand that what i was doin was absolutely alright and i hope it actaully is!
